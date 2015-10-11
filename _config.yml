@@ -2,7 +2,7 @@
 
 title: Son Pham
 locale: en_US
-description: Kitschy Art Historian + AI Enthusiast
+description: Perfectionist Programmer + Kitschy Art Historian + AI Enthusiast
 logo: site-logo.png
 search: true
 url: http://aidreamer.github.io
@@ -33,9 +33,9 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Son Pham
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: son.pham@bucknell.edu
   disqus-shortname:
   twitter: #username
   facebook: #username
