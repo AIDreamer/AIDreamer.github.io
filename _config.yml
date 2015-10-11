@@ -2,7 +2,7 @@
 
 title: Son Pham
 locale: en_US
-description: Perfectionist Programmer + Kitschy Art Historian + AI Enthusiast
+description: Programmer + Kitschy Art Historian + AI Enthusiast
 logo: site-logo.png
 search: true
 url: http://aidreamer.github.io
@@ -48,7 +48,7 @@ owner:
   pinterest: #username
   weibo: #userid
   google:
-    plus: Son Pham
+    plus:
     analytics: UA-68681321-1
     verify:
     ad-client:
